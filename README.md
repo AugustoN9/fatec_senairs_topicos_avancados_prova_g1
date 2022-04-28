@@ -20,3 +20,5 @@ erDiagram
         float precoUnitario
     }
 ```
+
+## https://www.alura.com.br/artigos/Diagramas-markdown-com-JS-hash-e-criptografia-emais-alura-stars
